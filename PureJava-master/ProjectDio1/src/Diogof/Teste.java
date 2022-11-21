@@ -14,5 +14,6 @@ public class Teste {
 
         System.out.println(Eager);
         System.out.println(Eager);
+        System.out.println(Eager);
     }
 }
